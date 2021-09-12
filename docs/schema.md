@@ -5,6 +5,9 @@ There are two types of databases: meta-data and update meta-data.
 The meta-data file contains the tracking meta-data.
 The update meta-data file contains meta-data about the tracker's online updates.
 
+1. table of contents
+{:toc}
+
 ## A Note About Bounding Boxes
 
 For brevity, this document uses *bounding box* as a data type.

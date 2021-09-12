@@ -1,0 +1,7 @@
+theme: jekyll-theme-modernist
+title: TrackVis Database
+defaults:
+  - scope:
+      path: ""
+    values:
+      title: TrackVis Database
